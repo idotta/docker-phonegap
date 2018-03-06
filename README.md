@@ -3,9 +3,13 @@ Dockerfile for a phonegap fast setup.
 
 ## Installation
 You must have [Docker](https://www.docker.com/) installed. You can either pull this repository and build the image using the docker-build script:
+
 `git clone https://github.com/idotta/docker-phonegap.git`
+
 `sh docker-build.sh`
+
 or you can pull the image directly from docker hub:
+
 `docker pull idotta/phonegap`
 
 ## Usage
